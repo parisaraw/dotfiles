@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = parisara.w@gmail.com
+	name = Parisara Wongsethanoonoi
